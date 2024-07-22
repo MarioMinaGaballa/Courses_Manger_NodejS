@@ -1,0 +1,22 @@
+{
+  "name": "courses_manger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioMinaGaballa/Courses_Manger_NodejS.git"
+  },
+  "author": "Mario Mina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioMinaGaballa/Courses_Manger_NodejS/issues"
+  },
+  "homepage": "https://github.com/MarioMinaGaballa/Courses_Manger_NodejS#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
