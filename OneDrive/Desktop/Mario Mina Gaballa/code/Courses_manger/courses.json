@@ -1,6 +1,1 @@
-[
-  { "programming": "js", "price": 500 },
-  { "programming": "html", "price": 200 },
-  { "programming": "react", "price": 1000 },
-  { "programming": "node js", "price": 1200 }
-]
+[{"programming":"js","price":500},{"programming":"html","price":200},{"programming":"react","price":1000},{"programming":"node js","price":1200},{"programming":"css","price":200}]
